@@ -1,0 +1,189 @@
+[10-Dec-2020 09:37:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /storage/ssd4/877/15077877/public_html/admin/functions/ql_nhanvien.php on line 49
+[10-Dec-2020 09:38:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /storage/ssd4/877/15077877/public_html/admin/functions/ql_nhanvien.php on line 49
+[10-Dec-2020 09:38:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /storage/ssd4/877/15077877/public_html/admin/functions/ql_nhanvien.php on line 49
+[10-Dec-2020 09:39:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /storage/ssd4/877/15077877/public_html/admin/functions/ql_nhanvien.php on line 49
+[10-Dec-2020 09:41:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /storage/ssd4/877/15077877/public_html/admin/functions/ql_nhanvien.php on line 49
+[10-Dec-2020 09:42:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /storage/ssd4/877/15077877/public_html/admin/functions/edit_nhanvien.php on line 45
+[10-Dec-2020 09:43:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /storage/ssd4/877/15077877/public_html/admin/includes/header.php:1) in /storage/ssd4/877/15077877/public_html/admin/functions/edit_nhanvien.php on line 19
+[10-Dec-2020 09:44:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /storage/ssd4/877/15077877/public_html/admin/includes/header.php:1) in /storage/ssd4/877/15077877/public_html/admin/functions/edit_nhanvien.php on line 19
+[10-Dec-2020 09:45:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /storage/ssd4/877/15077877/public_html/admin/functions/edit_nhanvien.php on line 44
+[10-Dec-2020 09:45:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /storage/ssd4/877/15077877/public_html/admin/functions/edit_nhanvien.php on line 44
+[11-Dec-2020 03:41:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /storage/ssd4/877/15077877/public_html/admin/functions/ql_khachhang.php on line 33
+[11-Dec-2020 03:41:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /storage/ssd4/877/15077877/public_html/admin/functions/ql_khachhang.php on line 33
+[11-Dec-2020 03:54:33 UTC] PHP Notice:  Undefined variable: stm in /storage/ssd4/877/15077877/public_html/includes/show_book1.php on line 50
+[11-Dec-2020 03:54:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /storage/ssd4/877/15077877/public_html/includes/show_book1.php:50
+Stack trace:
+#0 /storage/ssd4/877/15077877/public_html/includes/category.php(9): include()
+#1 /storage/ssd4/877/15077877/public_html/qua.php(14): include('/storage/ssd4/8...')
+#2 {main}
+  thrown in /storage/ssd4/877/15077877/public_html/includes/show_book1.php on line 50
+[11-Dec-2020 03:54:38 UTC] PHP Notice:  Undefined variable: stm in /storage/ssd4/877/15077877/public_html/includes/show_book1.php on line 50
+[11-Dec-2020 03:54:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /storage/ssd4/877/15077877/public_html/includes/show_book1.php:50
+Stack trace:
+#0 /storage/ssd4/877/15077877/public_html/includes/category.php(9): include()
+#1 /storage/ssd4/877/15077877/public_html/qua.php(14): include('/storage/ssd4/8...')
+#2 {main}
+  thrown in /storage/ssd4/877/15077877/public_html/includes/show_book1.php on line 50
+[11-Dec-2020 03:54:41 UTC] PHP Notice:  Undefined variable: stm in /storage/ssd4/877/15077877/public_html/includes/show_book1.php on line 50
+[11-Dec-2020 03:54:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /storage/ssd4/877/15077877/public_html/includes/show_book1.php:50
+Stack trace:
+#0 /storage/ssd4/877/15077877/public_html/includes/category.php(9): include()
+#1 /storage/ssd4/877/15077877/public_html/qua.php(14): include('/storage/ssd4/8...')
+#2 {main}
+  thrown in /storage/ssd4/877/15077877/public_html/includes/show_book1.php on line 50
+[11-Dec-2020 03:55:01 UTC] PHP Notice:  Undefined variable: stm in /storage/ssd4/877/15077877/public_html/includes/show_book1.php on line 50
+[11-Dec-2020 03:55:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /storage/ssd4/877/15077877/public_html/includes/show_book1.php:50
+Stack trace:
+#0 /storage/ssd4/877/15077877/public_html/includes/category.php(9): include()
+#1 /storage/ssd4/877/15077877/public_html/qua.php(14): include('/storage/ssd4/8...')
+#2 {main}
+  thrown in /storage/ssd4/877/15077877/public_html/includes/show_book1.php on line 50
+[11-Dec-2020 03:55:26 UTC] PHP Notice:  Undefined variable: stm in /storage/ssd4/877/15077877/public_html/includes/show_book1.php on line 50
+[11-Dec-2020 03:55:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /storage/ssd4/877/15077877/public_html/includes/show_book1.php:50
+Stack trace:
+#0 /storage/ssd4/877/15077877/public_html/includes/category.php(9): include()
+#1 /storage/ssd4/877/15077877/public_html/qua.php(14): include('/storage/ssd4/8...')
+#2 {main}
+  thrown in /storage/ssd4/877/15077877/public_html/includes/show_book1.php on line 50
+[11-Dec-2020 03:56:09 UTC] PHP Notice:  Undefined variable: stm in /storage/ssd4/877/15077877/public_html/includes/show_book1.php on line 52
+[11-Dec-2020 03:56:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /storage/ssd4/877/15077877/public_html/includes/show_book1.php:52
+Stack trace:
+#0 /storage/ssd4/877/15077877/public_html/includes/category.php(9): include()
+#1 /storage/ssd4/877/15077877/public_html/qua.php(14): include('/storage/ssd4/8...')
+#2 {main}
+  thrown in /storage/ssd4/877/15077877/public_html/includes/show_book1.php on line 52
+[11-Dec-2020 03:56:11 UTC] PHP Notice:  Undefined variable: stm in /storage/ssd4/877/15077877/public_html/includes/show_book1.php on line 52
+[11-Dec-2020 03:56:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /storage/ssd4/877/15077877/public_html/includes/show_book1.php:52
+Stack trace:
+#0 /storage/ssd4/877/15077877/public_html/includes/category.php(9): include()
+#1 /storage/ssd4/877/15077877/public_html/qua.php(14): include('/storage/ssd4/8...')
+#2 {main}
+  thrown in /storage/ssd4/877/15077877/public_html/includes/show_book1.php on line 52
+[11-Dec-2020 03:56:14 UTC] PHP Notice:  Undefined variable: stm in /storage/ssd4/877/15077877/public_html/includes/show_book1.php on line 52
+[11-Dec-2020 03:56:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /storage/ssd4/877/15077877/public_html/includes/show_book1.php:52
+Stack trace:
+#0 /storage/ssd4/877/15077877/public_html/includes/category.php(9): include()
+#1 /storage/ssd4/877/15077877/public_html/qua.php(14): include('/storage/ssd4/8...')
+#2 {main}
+  thrown in /storage/ssd4/877/15077877/public_html/includes/show_book1.php on line 52
+[11-Dec-2020 03:56:15 UTC] PHP Notice:  Undefined variable: stm in /storage/ssd4/877/15077877/public_html/includes/show_book1.php on line 52
+[11-Dec-2020 03:56:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /storage/ssd4/877/15077877/public_html/includes/show_book1.php:52
+Stack trace:
+#0 /storage/ssd4/877/15077877/public_html/includes/category.php(9): include()
+#1 /storage/ssd4/877/15077877/public_html/qua.php(14): include('/storage/ssd4/8...')
+#2 {main}
+  thrown in /storage/ssd4/877/15077877/public_html/includes/show_book1.php on line 52
+[11-Dec-2020 03:56:43 UTC] PHP Notice:  Undefined variable: stm in /storage/ssd4/877/15077877/public_html/includes/show_book1.php on line 52
+[11-Dec-2020 03:56:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /storage/ssd4/877/15077877/public_html/includes/show_book1.php:52
+Stack trace:
+#0 /storage/ssd4/877/15077877/public_html/includes/category.php(9): include()
+#1 /storage/ssd4/877/15077877/public_html/qua.php(14): include('/storage/ssd4/8...')
+#2 {main}
+  thrown in /storage/ssd4/877/15077877/public_html/includes/show_book1.php on line 52
+[11-Dec-2020 04:01:45 UTC] PHP Notice:  Undefined variable: stm in /storage/ssd4/877/15077877/public_html/search.php on line 108
+[11-Dec-2020 04:01:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /storage/ssd4/877/15077877/public_html/search.php:108
+Stack trace:
+#0 {main}
+  thrown in /storage/ssd4/877/15077877/public_html/search.php on line 108
+[11-Dec-2020 04:01:49 UTC] PHP Notice:  Undefined variable: stm in /storage/ssd4/877/15077877/public_html/search.php on line 108
+[11-Dec-2020 04:01:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /storage/ssd4/877/15077877/public_html/search.php:108
+Stack trace:
+#0 {main}
+  thrown in /storage/ssd4/877/15077877/public_html/search.php on line 108
+[11-Dec-2020 04:03:11 UTC] PHP Notice:  Undefined variable: stm in /storage/ssd4/877/15077877/public_html/search.php on line 108
+[11-Dec-2020 04:03:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /storage/ssd4/877/15077877/public_html/search.php:108
+Stack trace:
+#0 {main}
+  thrown in /storage/ssd4/877/15077877/public_html/search.php on line 108
+[11-Dec-2020 04:03:17 UTC] PHP Notice:  Undefined variable: stm in /storage/ssd4/877/15077877/public_html/search.php on line 108
+[11-Dec-2020 04:03:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /storage/ssd4/877/15077877/public_html/search.php:108
+Stack trace:
+#0 {main}
+  thrown in /storage/ssd4/877/15077877/public_html/search.php on line 108
+[11-Dec-2020 04:03:54 UTC] PHP Notice:  Undefined variable: stm in /storage/ssd4/877/15077877/public_html/search.php on line 108
+[11-Dec-2020 04:03:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /storage/ssd4/877/15077877/public_html/search.php:108
+Stack trace:
+#0 {main}
+  thrown in /storage/ssd4/877/15077877/public_html/search.php on line 108
+[11-Dec-2020 04:05:57 UTC] PHP Notice:  Undefined variable: stm in /storage/ssd4/877/15077877/public_html/search.php on line 108
+[11-Dec-2020 04:05:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /storage/ssd4/877/15077877/public_html/search.php:108
+Stack trace:
+#0 {main}
+  thrown in /storage/ssd4/877/15077877/public_html/search.php on line 108
+[11-Dec-2020 04:05:57 UTC] PHP Notice:  Undefined variable: stm in /storage/ssd4/877/15077877/public_html/search.php on line 108
+[11-Dec-2020 04:05:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /storage/ssd4/877/15077877/public_html/search.php:108
+Stack trace:
+#0 {main}
+  thrown in /storage/ssd4/877/15077877/public_html/search.php on line 108
+[11-Dec-2020 04:12:37 UTC] PHP Notice:  Undefined variable: stm in /storage/ssd4/877/15077877/public_html/search.php on line 105
+[11-Dec-2020 04:12:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /storage/ssd4/877/15077877/public_html/search.php:105
+Stack trace:
+#0 {main}
+  thrown in /storage/ssd4/877/15077877/public_html/search.php on line 105
+[11-Dec-2020 04:12:44 UTC] PHP Notice:  Undefined variable: stm in /storage/ssd4/877/15077877/public_html/search.php on line 105
+[11-Dec-2020 04:12:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /storage/ssd4/877/15077877/public_html/search.php:105
+Stack trace:
+#0 {main}
+  thrown in /storage/ssd4/877/15077877/public_html/search.php on line 105
+[11-Dec-2020 04:12:50 UTC] PHP Notice:  Undefined variable: stm in /storage/ssd4/877/15077877/public_html/search.php on line 105
+[11-Dec-2020 04:12:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /storage/ssd4/877/15077877/public_html/search.php:105
+Stack trace:
+#0 {main}
+  thrown in /storage/ssd4/877/15077877/public_html/search.php on line 105
+[11-Dec-2020 04:13:51 UTC] PHP Notice:  Undefined variable: stm in /storage/ssd4/877/15077877/public_html/search.php on line 105
+[11-Dec-2020 04:13:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /storage/ssd4/877/15077877/public_html/search.php:105
+Stack trace:
+#0 {main}
+  thrown in /storage/ssd4/877/15077877/public_html/search.php on line 105
+[11-Dec-2020 04:13:55 UTC] PHP Notice:  Undefined variable: stm in /storage/ssd4/877/15077877/public_html/search.php on line 105
+[11-Dec-2020 04:13:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /storage/ssd4/877/15077877/public_html/search.php:105
+Stack trace:
+#0 {main}
+  thrown in /storage/ssd4/877/15077877/public_html/search.php on line 105
+[11-Dec-2020 04:15:31 UTC] PHP Notice:  Undefined variable: stm in /storage/ssd4/877/15077877/public_html/search.php on line 105
+[11-Dec-2020 04:15:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /storage/ssd4/877/15077877/public_html/search.php:105
+Stack trace:
+#0 {main}
+  thrown in /storage/ssd4/877/15077877/public_html/search.php on line 105
+[11-Dec-2020 04:42:42 UTC] PHP Notice:  Undefined variable: stm in /storage/ssd4/877/15077877/public_html/search.php on line 105
+[11-Dec-2020 04:42:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /storage/ssd4/877/15077877/public_html/search.php:105
+Stack trace:
+#0 {main}
+  thrown in /storage/ssd4/877/15077877/public_html/search.php on line 105
+[11-Dec-2020 04:42:57 UTC] PHP Notice:  Undefined variable: stm in /storage/ssd4/877/15077877/public_html/search.php on line 105
+[11-Dec-2020 04:42:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /storage/ssd4/877/15077877/public_html/search.php:105
+Stack trace:
+#0 {main}
+  thrown in /storage/ssd4/877/15077877/public_html/search.php on line 105
+[11-Dec-2020 04:43:22 UTC] PHP Notice:  Undefined variable: stm in /storage/ssd4/877/15077877/public_html/search.php on line 105
+[11-Dec-2020 04:43:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /storage/ssd4/877/15077877/public_html/search.php:105
+Stack trace:
+#0 {main}
+  thrown in /storage/ssd4/877/15077877/public_html/search.php on line 105
+[16-Dec-2020 02:11:37 UTC] PHP Warning:  mysqli_connect(): MySQL server has gone away in /storage/ssd4/877/15077877/public_html/includes/connection.php on line 8
+[16-Dec-2020 02:11:37 UTC] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=3289 in /storage/ssd4/877/15077877/public_html/includes/connection.php on line 8
+[16-Dec-2020 02:11:37 UTC] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /storage/ssd4/877/15077877/public_html/includes/connection.php on line 8
+[16-Dec-2020 02:11:57 UTC] PHP Warning:  mysqli_connect(): MySQL server has gone away in /storage/ssd4/877/15077877/public_html/includes/connection.php on line 8
+[16-Dec-2020 02:11:57 UTC] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=3441 in /storage/ssd4/877/15077877/public_html/includes/connection.php on line 8
+[16-Dec-2020 02:11:57 UTC] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /storage/ssd4/877/15077877/public_html/includes/connection.php on line 8
+[16-Dec-2020 02:12:12 UTC] PHP Warning:  mysqli_connect(): MySQL server has gone away in /storage/ssd4/877/15077877/public_html/includes/connection.php on line 8
+[16-Dec-2020 02:12:12 UTC] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=3314 in /storage/ssd4/877/15077877/public_html/includes/connection.php on line 8
+[16-Dec-2020 02:12:12 UTC] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /storage/ssd4/877/15077877/public_html/includes/connection.php on line 8
+[16-Dec-2020 02:12:42 UTC] PHP Warning:  mysqli_connect(): MySQL server has gone away in /storage/ssd4/877/15077877/public_html/includes/connection.php on line 8
+[16-Dec-2020 02:12:42 UTC] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=3447 in /storage/ssd4/877/15077877/public_html/includes/connection.php on line 8
+[16-Dec-2020 02:12:42 UTC] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /storage/ssd4/877/15077877/public_html/includes/connection.php on line 8
+[16-Dec-2020 02:19:33 UTC] PHP Warning:  mysqli_connect(): MySQL server has gone away in /storage/ssd4/877/15077877/public_html/includes/connection.php on line 8
+[16-Dec-2020 02:19:33 UTC] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=3120 in /storage/ssd4/877/15077877/public_html/includes/connection.php on line 8
+[16-Dec-2020 02:19:33 UTC] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /storage/ssd4/877/15077877/public_html/includes/connection.php on line 8
+[16-Dec-2020 02:19:37 UTC] PHP Warning:  mysqli_connect(): MySQL server has gone away in /storage/ssd4/877/15077877/public_html/includes/connection.php on line 8
+[16-Dec-2020 02:19:37 UTC] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=3121 in /storage/ssd4/877/15077877/public_html/includes/connection.php on line 8
+[16-Dec-2020 02:19:37 UTC] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /storage/ssd4/877/15077877/public_html/includes/connection.php on line 8
+[16-Dec-2020 02:21:17 UTC] PHP Warning:  mysqli_connect(): MySQL server has gone away in /storage/ssd4/877/15077877/public_html/includes/connection.php on line 8
+[16-Dec-2020 02:21:17 UTC] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=2981 in /storage/ssd4/877/15077877/public_html/includes/connection.php on line 8
+[16-Dec-2020 02:21:17 UTC] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /storage/ssd4/877/15077877/public_html/includes/connection.php on line 8
+[16-Dec-2020 03:06:38 UTC] PHP Warning:  mysqli_connect(): MySQL server has gone away in /storage/ssd4/877/15077877/public_html/includes/connection.php on line 8
+[16-Dec-2020 03:06:38 UTC] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=374 in /storage/ssd4/877/15077877/public_html/includes/connection.php on line 8
+[16-Dec-2020 03:06:38 UTC] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /storage/ssd4/877/15077877/public_html/includes/connection.php on line 8
+[16-Dec-2020 03:24:33 UTC] PHP Warning:  mysqli_connect(): MySQL server has gone away in /storage/ssd4/877/15077877/public_html/admin/includes/connection.php on line 8
+[16-Dec-2020 03:24:33 UTC] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=368 in /storage/ssd4/877/15077877/public_html/admin/includes/connection.php on line 8
+[16-Dec-2020 03:24:33 UTC] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /storage/ssd4/877/15077877/public_html/admin/includes/connection.php on line 8

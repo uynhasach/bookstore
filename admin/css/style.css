@@ -1,0 +1,9 @@
+
+.box__menu{ background-color: #849C7B; height: 3rem; display: flex; flex-direction: row;align-items: center;}
+.box__menu .list__menu
+{
+	list-style: none;
+}
+.box__menu .list__menu li{ display: inline-block; margin-left:2rem  }
+.box__menu .list__menu li a{color:white;text-decoration: none}
+.box__menu .list__menu li a:hover {color:lightblue;}
